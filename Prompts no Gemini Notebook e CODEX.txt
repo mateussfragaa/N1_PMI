@@ -1,0 +1,30 @@
+Prompts no Gemini, Notebook e CODEX.
+
+O primeiro passo foi se inteirar sobre o assunto e ideia apresentado no grupo.
+GEMINI:
+como funcionam os canais de ofertas do whatsapp?
+como se faz para participar e receber essas ofertas?
+esses canais funcionam separadamente pelo que entendi, pergunto: existe a possibilidade de unir em uma única ferramenta vários canais para fazer dessa ferramenta um comparador em tempo real dessas ofertas?
+
+Após esse primeiro contato com o conteúdo, prosseguimos para colocar a ideia num local mais controlado, onde as referências e os resultados são mais focados no assunto.
+GEMINI NOTEBOOK LLM:
+Quero progredir em um projeto que tenho em mente
+Vou te contar o objetivo central do meu projeto
+O objetivo central é criar um novo negócio inovador
+Tenho um setor específico em mente para o negócio
+um projeto de comparação de ofertas é o meu caminho escolhido
+Quero saber mais sobre o Bot de Busca
+Sim, faça a pesquisa para o roteiro técnico
+Como funciona o comissionamento de afiliados?
+Gere o script básico em Python
+Quais são os custos de servidor?
+preciso de uma apresentação simples informando a ideia, o problema que ela está solucionando e apresentando os primeiros passos de implantação que só podem ser feitos por um estudante iniciando em um curso de sistemas de informação. o nome do produto é cupom maníacos: um assistente inteligente de compras. ele surge para se aproveitar de um comportamento recente da internet que é o de grupo de compras e oferece tudo em um só lugar com muito menos ruído de notificação e mais agilidade nos cupons e preços para os caçadores de grandes oportunidades.
+Mostre os diferenciais do Cupom Maníacos
+monte em slides com design simples a última resposta sobre os diferenciais do cupom maníacos
+Explique o modelo de comissão por categoria.
+preciso de 3 sugestões de LOGOTIPOS para a Marca: CUPOM MANÍACOS.
+
+Após esse andamento, as opções geradas em relatórios, apresentações e estatísticas da ferramenta ajudaram na visualização do contexto da ideia.
+Depois desse conteúdo gerado, anexamos o material no CODEX GPT para moldar o primeiro produto viável.
+sou estudante de análise e desenvolvimento de sistemas e estou montando um trabalho que contempla a multidisciplinaridade do curso: lógica de programação, banco de dados, desenvolvimento de ideias UI e UX. Em anexo está o projeto que integra essas disciplinas. preciso estruturar e criar o primeiro MVP: produto viável mínimo. as instruções e condicionantes estão nos anexos para que o primeiro BOT seja criado e viabilizado aqui no CODEX.
+preciso criar um link compartilhável do site e um material em PDF da estrutura do trabalho acadêmico e suas explicações
