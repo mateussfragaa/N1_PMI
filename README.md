@@ -1,4 +1,4 @@
-# Cupom Maníacos 🛒🤖
+# Cupom Maníacos
 
 > **Projeto Multintegrador de Ideias 1 (PMI 1)**  
 > **Curso:** Análise e Desenvolvimento de Sistemas (ADS)
